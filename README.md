@@ -1,4 +1,4 @@
-<a href="https://noddy.nz"><img src="https://github.com/noddynz/noddynz/blob/main/devcard.svg" width="400" alt="Noddy's Dev Card"/></a>
+<a href="https://app.daily.dev/noddynz"><img src="https://api.daily.dev/devcards/v2/5Qamv4wZEqRFJX0IuAjKC.png?type=default&r=kbe" width="356" alt="Michael Morris's Dev Card"/></a>
 <!--
 **noddynz/noddynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
